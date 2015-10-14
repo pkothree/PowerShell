@@ -1,6 +1,11 @@
-# Unzip install files for installation and configuration
-# Version 0.1
-# Date 10/13/15
+###
+# Danny Davis
+# twitter: twitter.com/pko3
+# github: github.com/pkothree
+# Created: 10/13/15
+# Modified: 10/14/15
+# Description: Unzip files
+###
 
 $location= PATH
 $shell = new-object -com shell.application
